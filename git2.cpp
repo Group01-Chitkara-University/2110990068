@@ -8,7 +8,7 @@ int main(){
       cin>>i;
       cout<<"Enter the operator\n";
       cin>>k;
-      cout<<"Enter another number\n";
+      cout<<"Enter a another number\n";
       cin>>j;
       if(k=='+'){
              cout<<i+j;
